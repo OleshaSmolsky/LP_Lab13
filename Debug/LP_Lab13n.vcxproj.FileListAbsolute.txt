@@ -1,0 +1,4 @@
+D:\Университет\1 курс\2 семестр\Языки программирования\Лабораторные работы\Лабораторная работа 13\LP_Lab13n\Debug\LP_Lab13n.exe
+D:\Университет\1 курс\2 семестр\Языки программирования\Лабораторные работы\Лабораторная работа 13\LP_Lab13n\Debug\LP_Lab13n.pdb
+C:\Users\Олёша\source\repos\LP_Lab13\LP_Lab13n\Debug\LP_Lab13n.exe
+C:\Users\Олёша\source\repos\LP_Lab13\LP_Lab13n\Debug\LP_Lab13n.pdb

@@ -1,0 +1,19 @@
+﻿Сборка начата 26.06.2020 19:41:59.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Олёша\source\repos\LP_Lab13\LP_Lab13n\LP_Lab13n.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\LP_Lab13n.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         LP_Lab13n.vcxproj -> C:\Users\Олёша\source\repos\LP_Lab13\LP_Lab13n\Debug\LP_Lab13n.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LP_Lab13n.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LP_Lab13n.tlog\LP_Lab13n.lastbuildstate".
+     1>Сборка проекта "C:\Users\Олёша\source\repos\LP_Lab13\LP_Lab13n\LP_Lab13n.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.04
